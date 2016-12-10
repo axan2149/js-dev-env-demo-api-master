@@ -1,2 +1,2 @@
-# js-dev-env-demo-api-master
-API for js-dev-env class
+# js-dev-env-demo-api
+API for JS Dev Env Demo in Pluralsight course
